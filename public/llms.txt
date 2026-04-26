@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות חטיפי חלבון מובילה לספורטאים ואנשים בריאותיים. מבחר עשיר של חטיפי חלבון טעימים ומזינים שיעזרו לך להגיע ליעדים שלך. הזמן עכשיו!
+
+### למה חטיפי חלבון
+https://example.com/benefits
+חטיפי חלבון לירידה במשקל ולבניית שריר — גלה את היתרונות המדעיים שיהפכו את התזונה שלך לחכמה יותר. כל מה שצריך לדעת לפני הביס הבא!
+
+### אודות
+https://example.com/about
+פרוטאין נולדה מתוך אהבה אמיתית לתזונה נכונה וספורט. אנחנו מאמינים שאוכל בריא יכול להיות גם טעים. הכירו את הצוות שמכין את חטיפי החלבון האהובים עליכם!
+
+### צור קשר
+https://example.com/contact
+יש שאלות על חטיפי חלבון או רוצים המלצה אישית? צוות פרוטאין כאן בשבילכם! צרו קשר עכשיו ונעזור לכם לבחור את המוצרים המתאימים ביותר לאורח החיים שלכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - פרוטאין
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - פרוטאין
+
+### Category
+https://example.com/category/:slug
+מוצרים - פרוטאין
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
