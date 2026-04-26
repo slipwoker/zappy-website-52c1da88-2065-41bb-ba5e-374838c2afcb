@@ -1,79 +1,94 @@
-# Business — Generative Engine Optimization Map
+# פרוטאין — Generative Engine Optimization Map
+
+> A store specializing in protein snacks, catering to health-conscious consumers and fitness enthusiasts. The business focuses on selling protein-based snack products, likely targeting athletes, gym-goers, or people seeking healthier snack alternatives.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://protein.zappy5.app
 חנות חטיפי חלבון מובילה לספורטאים ואנשים בריאותיים. מבחר עשיר של חטיפי חלבון טעימים ומזינים שיעזרו לך להגיע ליעדים שלך. הזמן עכשיו!
 
 ### למה חטיפי חלבון
-https://example.com/benefits
+https://protein.zappy5.app/benefits
 חטיפי חלבון לירידה במשקל ולבניית שריר — גלה את היתרונות המדעיים שיהפכו את התזונה שלך לחכמה יותר. כל מה שצריך לדעת לפני הביס הבא!
 
 ### אודות
-https://example.com/about
+https://protein.zappy5.app/about
 פרוטאין נולדה מתוך אהבה אמיתית לתזונה נכונה וספורט. אנחנו מאמינים שאוכל בריא יכול להיות גם טעים. הכירו את הצוות שמכין את חטיפי החלבון האהובים עליכם!
 
 ### צור קשר
-https://example.com/contact
+https://protein.zappy5.app/contact
 יש שאלות על חטיפי חלבון או רוצים המלצה אישית? צוות פרוטאין כאן בשבילכם! צרו קשר עכשיו ונעזור לכם לבחור את המוצרים המתאימים ביותר לאורח החיים שלכם.
 
 ### Products
-https://example.com/products
+https://protein.zappy5.app/products
 המוצרים שלנו - פרוטאין
 
 ### Cart
-https://example.com/cart
+https://protein.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://protein.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://protein.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://protein.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://protein.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://protein.zappy5.app/product/:slug
 פרטי המוצר - פרוטאין
 
 ### Category
-https://example.com/category/:slug
+https://protein.zappy5.app/category/:slug
 מוצרים - פרוטאין
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://protein.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://protein.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://protein.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About פרוטאין
+A store specializing in protein snacks, catering to health-conscious consumers and fitness enthusiasts. The business focuses on selling protein-based snack products, likely targeting athletes, gym-goers, or people seeking healthier snack alternatives.
+
+## Services/Products
+- חטיפי חלבון
+
+## Target Audience
+- מקצוענים מודעים לבריאות
+- חובבי כושר טבעוניים
+- מחפשי ניהול משקל
+
+## Industry
+תזונה וספורט
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://protein.zappy5.app/sitemap.xml
+- **Robots.txt**: https://protein.zappy5.app/robots.txt
