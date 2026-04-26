@@ -1,6 +1,4 @@
-# פרוטאין — Generative Engine Optimization Map
-
-> A store specializing in protein snacks, catering to health-conscious consumers and fitness enthusiasts. The business focuses on selling protein-based snack products, likely targeting athletes, gym-goers, or people seeking healthier snack alternatives.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -72,20 +70,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About פרוטאין
-A store specializing in protein snacks, catering to health-conscious consumers and fitness enthusiasts. The business focuses on selling protein-based snack products, likely targeting athletes, gym-goers, or people seeking healthier snack alternatives.
-
-## Services/Products
-- חטיפי חלבון
-
-## Target Audience
-- מקצוענים מודעים לבריאות
-- חובבי כושר טבעוניים
-- מחפשי ניהול משקל
-
-## Industry
-תזונה וספורט
-
+## About Business
 ---
 
 # Additional Resources
